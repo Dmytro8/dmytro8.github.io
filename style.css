@@ -112,6 +112,7 @@ a {
 .repoLink a,
 .repoLink h5 {
   color: #3d3d3d;
+  font-weight: 300;
 }
 .repoLink a:hover {
   color: #61dbfb;
